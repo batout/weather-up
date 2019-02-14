@@ -1,0 +1,23 @@
+{
+  "name": "weather-up",
+  "version": "1.0.0",
+  "description": "a small module fetch your location and advice what to wear based on weather.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batout/weather-up.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "batout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/batout/weather-up/issues"
+  },
+  "homepage": "https://github.com/batout/weather-up#readme",
+  "dependencies": {}
+}
